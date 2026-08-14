@@ -1,0 +1,49 @@
+team_id,team_name,group,home_country,home_utc_offset,base_camp_name,base_camp_city,base_camp_country,base_camp_utc_offset,base_camp_airport_code,base_camp_airport_longitude,base_camp_airport_latitude,base_camp_longitude,base_camp_latitude,driving_distance_airport_to_basecamp_one_way_km,driving_time_airport_to_basecamp_one_way_hours
+1,Czech Republic,A,Czech Republic,2,Mansfield Multipurpose Stadium,Dallas,United States,-5,DFW,-97.0403,32.8998,-97.074,32.563,42.04,0.634
+2,Mexico,A,Mexico,-6,Centro de Alto Rendimiento (CAR),Mexico City,Mexico,-6,MEX,-99.0721,19.4363,-99.1437,19.3558,18.502,0.342
+3,South Africa,A,South Africa,2,CF Pachuca - Universidad Del Futbol,Pachuca,Mexico,-6,NLU,-99.0159,19.7581,-98.7424,20.06,53.988,0.916
+4,South Korea,A,South Korea,9,Chivas Verde Valle,Guadalajara,Mexico,-6,GDL,-103.3112,20.5218,-103.43,20.665,29.045,0.534
+5,Bosnia & Herzegovina,B,Bosnia & Herzegovina,2,RSL Stadium,Sandy,United States,-6,SLC,-111.9791,40.7899,-111.8933,40.5829,32.092,0.484
+6,Canada,B,Canada,-4,National Soccer Development Centre,Vancouver,Canada,-7,YVR,-123.1792,49.1947,-123.243,49.255,15.731,0.394
+7,Qatar,B,Qatar,3,Westmont College,Santa Barbara,United States,-7,SBA,-119.8404,34.4262,-119.661,34.449,23.933,0.428
+8,Switzerland,B,Switzerland,2,SDJA,San Diego,United States,-7,SAN,-117.1897,32.7336,-117.229,32.957,28.51,0.397
+9,Brazil,C,Brazil,-3,Columbia Park Training Facility,New York New Jersey,United States,-4,EWR,-74.1745,40.6895,-74.477,40.797,34.965,0.521
+10,Haiti,C,Haiti,-4,Stockton University,New York New Jersey,United States,-4,ACY,-74.5772,39.4576,-74.531,39.492,14.056,0.553
+11,Morocco,C,Morocco,1,The Pingry School,New York New Jersey,United States,-4,EWR,-74.1745,40.6895,-74.573,40.682,45.062,0.64
+12,Scotland,C,Scotland,1,Charlotte FC,Charlotte,United States,-4,CLT,-80.9431,35.214,-80.839,35.271,17.427,0.333
+13,Australia,D,Australia,10,Oakland Roots/Soul Training Facility,San Francisco Bay Area,United States,-7,OAK,-122.2207,37.7213,-122.244,37.732,3.63,0.12
+14,Paraguay,D,Paraguay,-3,Spartan Soccer Complex,San Francisco Bay Area,United States,-7,SJC,-121.9289,37.3639,-121.864,37.319,10.065,0.198
+15,Turkey,D,Turkey,3,Arizona Athletic Grounds,Mesa,United States,-7,AZA,-112.0116,33.4342,-111.617,33.309,50.058,0.719
+16,USA,D,USA,-4,Great Park Sports Complex,Irvine,United States,-7,SNA,-117.8682,33.6757,-117.743,33.675,15.745,0.243
+17,Curaçao,E,Curaçao,-4,Florida Atlantic University,Boca Raton,United States,-4,PBI,-80.0956,26.6832,-80.101,26.373,39.198,0.59
+18,Ecuador,E,Ecuador,-5,Columbus Crew Performance Centre,Columbus,United States,-4,CMH,-82.8919,39.998,-82.991,40.006,13.716,0.26
+19,Germany,E,Germany,2,Wake Forest University,Winston-Salem,United States,-4,GSO,-79.9373,36.0978,-80.276,36.133,44.726,0.698
+20,Ivory Coast,E,Ivory Coast,0,Philadelphia Union,Philadelphia,United States,-4,PHL,-75.2424,39.8744,-75.378,39.832,16.256,0.323
+21,Japan,F,Japan,9,Nashville SC,Nashville,United States,-5,BNA,-86.6782,36.1245,-86.819,36.144,21.913,0.345
+22,Netherlands,F,Netherlands,2,KC Current Training Facility,Kansas City,United States,-5,MCI,-94.7139,39.2976,-94.616,39.142,25.274,0.386
+23,Sweden,F,Sweden,2,FC Dallas Stadium,Dallas,United States,-5,DFW,-97.0403,32.8998,-96.835,33.155,43.587,0.636
+24,Tunisia,F,Tunisia,1,Rayados Training Centre,Monterrey,Mexico,-6,MTY,-100.107,25.7785,-100.187,25.53,48.957,0.717
+25,Belgium,G,Belgium,2,Seattle Sounders FC Performance Centre and Clubhouse,Renton,United States,-7,SEA,-122.3088,47.4502,-122.205,47.493,12.584,0.28
+26,Egypt,G,Egypt,3,Gonzaga University,Spokane,United States,-7,GEG,-117.5338,47.6199,-117.399,47.668,14.093,0.247
+27,Iran,G,Iran,3.5,Centro Xoloitzcuintle,Tijuana,Mexico,-7,TIJ,-116.97,32.5411,-116.994,32.505,7.163,0.156
+28,New Zealand,G,New Zealand,12,University of San Diego - Torero Stadium,San Diego,United States,-7,SAN,-117.1897,32.7336,-117.183,32.771,7.099,0.171
+29,Cape Verde,H,Cape Verde,-1,Waters Sportsplex,Tampa,United States,-4,TPA,-82.5332,27.9755,-82.54,28.023,10.972,0.225
+30,Saudi Arabia,H,Saudi Arabia,3,Austin FC Stadium,Austin,United States,-5,AUS,-97.6664,30.1975,-97.73,30.388,32.302,0.512
+31,Spain,H,Spain,2,Baylor School,Chattanooga,United States,-4,CHA,-85.2038,35.0353,-85.298,35.127,26.814,0.486
+32,Uruguay,H,Uruguay,-3,Mayakoba Training Centre Cancun,Cancun,Mexico,-5,CUN,-86.8771,21.0365,-87.03,20.68,47.02,0.59
+33,France,I,France,2,Bentley University,Boston,United States,-4,BOS,-71.0096,42.3656,-71.22,42.388,22.532,0.457
+34,Iraq,I,Iraq,3,The Greenbrier Sports Performance Centre,Greenbrier County,United States,-4,LWB,-80.3995,37.8583,-80.309,37.786,20.121,0.359
+35,Norway,I,Norway,2,UNC Greensboro,Greensboro,United States,-4,GSO,-79.9373,36.0978,-79.812,36.069,18.102,0.329
+36,Senegal,I,Senegal,0,Rutgers University,New York New Jersey,United States,-4,EWR,-74.1745,40.6895,-74.463,40.515,43.581,0.642
+37,Algeria,J,Algeria,1,University of Kansas,Kansas City,United States,-5,MCI,-94.7139,39.2976,-95.328,38.984,92.144,1.142
+38,Argentina,J,Argentina,-3,Sporting KC Training Centre,Kansas City,United States,-5,MCI,-94.7139,39.2976,-94.826,39.121,37.206,0.534
+39,Austria,J,Austria,2,UC Santa Barbara - Harder Stadium,Goleta,United States,-7,SBA,-119.8404,34.4262,-119.848,34.419,2.898,0.091
+40,Jordan,J,Jordan,3,University of Portland,Portland,United States,-7,PDX,-122.5951,45.5898,-122.727,45.572,16.558,0.463
+41,Colombia,K,Colombia,-5,Academia Atlas FC,Guadalajara,Mexico,-6,GDL,-103.3112,20.5218,-103.511,20.735,40.069,0.71
+42,DR Congo,K,DR Congo,1,Houston Training Centre,Houston,United States,-5,HOU,-95.3368,29.9902,-95.352,29.596,55.766,0.865
+43,Portugal,K,Portugal,1,Gardens North County District Park,Palm Beach Gardens,United States,-4,PBI,-80.0956,26.6832,-80.111,26.848,24.903,0.425
+44,Uzbekistan,K,Uzbekistan,5,Atlanta United Training Centre,Atlanta,United States,-4,ATL,-84.4277,33.6407,-84.595,33.914,48.691,0.839
+45,Croatia,L,Croatia,2,Episcopal High School,Alexandria,United States,-4,DCA,-77.0402,38.8512,-77.093,38.822,13.913,0.292
+46,England,L,England,1,Swope Soccer Village,Kansas City,United States,-5,MCI,-94.7139,39.2976,-94.522,39.011,45.585,0.711
+47,Ghana,L,Ghana,0,Bryant University,Boston,United States,-4,PVD,-71.4282,41.724,-71.539,41.922,31.125,0.549
+48,Panama,L,Panama,-5,Nottawasaga Training Site,New Tecumseth,Canada,-4,YYZ,-79.6248,43.6777,-79.866,44.19,92.7,1.444
