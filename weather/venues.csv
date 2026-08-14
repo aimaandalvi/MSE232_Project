@@ -1,0 +1,17 @@
+venue_id,venue_name,city,country,utc_offset,iana_timezone,capacity,roof_type,weather_protected,venue_longitude,venue_latitude,venue_airport_code,venue_airport_longitude,venue_airport_latitude,driving_distance_airport_to_venue_one_way_km,driving_time_airport_to_venue_one_way_hours
+1,Toronto Stadium,Toronto,Canada,-4,America/Toronto,45736,Open,0,-79.4186,43.6332,YYZ,-79.6248,43.6777,27.26,0.486
+2,BC Place Vancouver,Vancouver,Canada,-7,America/Vancouver,54500,Retractable,1,-123.112,49.2768,YVR,-123.1792,49.1947,13.873,0.378
+3,Mexico City Stadium,Mexico City,Mexico,-6,America/Mexico_City,83000,Open,0,-99.1504,19.3029,MEX,-99.0721,19.4363,21.166,0.395
+4,Guadalajara Stadium,Guadalajara,Mexico,-6,America/Mexico_City,48071,Open,0,-103.4626,20.6818,GDL,-103.3112,20.5218,30.333,0.621
+5,Monterrey Stadium,Monterrey,Mexico,-6,America/Monterrey,53500,Open,0,-100.2444,25.6692,MTY,-100.107,25.7785,23.088,0.421
+6,Atlanta Stadium,Atlanta,United States,-4,America/New_York,75000,Retractable,1,-84.402,33.7555,ATL,-84.4277,33.6407,16.931,0.363
+7,Boston Stadium,Boston,United States,-4,America/New_York,65878,Open,0,-71.2643,42.0909,PVD,-71.4282,41.724,51.699,0.912
+8,Dallas Stadium,Dallas,United States,-5,America/Chicago,70649,Retractable,1,-97.0945,32.7473,DFW,-97.0403,32.8998,22.881,0.43
+9,Houston Stadium,Houston,United States,-5,America/Chicago,72220,Retractable,1,-95.4107,29.6847,HOU,-95.2789,29.6454,19.96,0.426
+10,Kansas City Stadium,Kansas City,United States,-5,America/Chicago,73000,Open,0,-94.4839,39.0489,MCI,-94.7139,39.2976,49.67,0.685
+11,Los Angeles Stadium,Los Angeles,United States,-7,America/Los_Angeles,70240,Open,0,-118.3392,33.9535,LAX,-118.4081,33.9425,8.25,0.188
+12,Miami Stadium,Miami,United States,-4,America/New_York,64767,Open,0,-80.2389,25.958,FLL,-80.1527,26.0726,21.728,0.384
+13,New York New Jersey Stadium,New York New Jersey,United States,-4,America/New_York,80663,Open,0,-74.0745,40.8135,EWR,-74.1745,40.6895,20.741,0.395
+14,Philadelphia Stadium,Philadelphia,United States,-4,America/New_York,69796,Open,0,-75.1681,39.9009,PHL,-75.2424,39.8744,9.543,0.203
+15,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,-7,America/Los_Angeles,68500,Open,0,-121.97,37.403,SJC,-121.9289,37.3639,9.98,0.195
+16,Seattle Stadium,Seattle,United States,-7,America/Los_Angeles,68740,Open,0,-122.3322,47.5951,SEA,-122.3088,47.4502,22.563,0.395
