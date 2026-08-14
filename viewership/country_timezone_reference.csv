@@ -1,0 +1,224 @@
+country,sub_region,fifa_audience_region,utc_offset_june,population_millions,source
+India,South Asia,Asia & Oceania,5.5,1450,[1] UN WPP 2024
+Pakistan,South Asia,Asia & Oceania,5,240,[1] UN WPP 2024
+Bangladesh,South Asia,Asia & Oceania,6,175,[1] UN WPP 2024
+Nepal,South Asia,Asia & Oceania,5.75,31,[1] UN WPP 2024
+Sri Lanka,South Asia,Asia & Oceania,5.5,22,[1] UN WPP 2024
+Afghanistan,South Asia,Asia & Oceania,4.5,42,[1] UN WPP 2024
+Maldives,South Asia,Asia & Oceania,5,0.5,[1] UN WPP 2024
+Bhutan,South Asia,Asia & Oceania,6,0.8,[1] UN WPP 2024
+China,East Asia,Asia & Oceania,8,1410,[1] UN WPP 2024
+Japan,East Asia,Asia & Oceania,9,124,[1] UN WPP 2024
+South Korea,East Asia,Asia & Oceania,9,52,[1] UN WPP 2024
+North Korea,East Asia,Asia & Oceania,9,26,[1] UN WPP 2024
+Mongolia,East Asia,Asia & Oceania,8,3.4,[1] UN WPP 2024
+Taiwan,East Asia,Asia & Oceania,8,24,[1] UN WPP 2024
+Hong Kong,East Asia,Asia & Oceania,8,7.5,[1] UN WPP 2024
+Macau,East Asia,Asia & Oceania,8,0.7,[1] UN WPP 2024
+Indonesia WIB (Java/Sumatra),Southeast Asia,Asia & Oceania,7,225,[5] BPS Indonesia
+Indonesia WITA (Bali/Kalimantan/Sulawesi),Southeast Asia,Asia & Oceania,8,37,[5] BPS Indonesia
+Indonesia WIT (Papua/Maluku),Southeast Asia,Asia & Oceania,9,7,[5] BPS Indonesia
+Philippines,Southeast Asia,Asia & Oceania,8,117,[1] UN WPP 2024
+Vietnam,Southeast Asia,Asia & Oceania,7,100,[1] UN WPP 2024
+Thailand,Southeast Asia,Asia & Oceania,7,72,[1] UN WPP 2024
+Myanmar,Southeast Asia,Asia & Oceania,6.5,55,[1] UN WPP 2024
+Malaysia,Southeast Asia,Asia & Oceania,8,34,[1] UN WPP 2024
+Cambodia,Southeast Asia,Asia & Oceania,7,17,[1] UN WPP 2024
+Laos,Southeast Asia,Asia & Oceania,7,8,[1] UN WPP 2024
+Singapore,Southeast Asia,Asia & Oceania,8,6,[1] UN WPP 2024
+Timor-Leste,Southeast Asia,Asia & Oceania,9,1.4,[1] UN WPP 2024
+Brunei,Southeast Asia,Asia & Oceania,8,0.5,[1] UN WPP 2024
+Uzbekistan,Central Asia,Asia & Oceania,5,35,[1] UN WPP 2024
+Tajikistan,Central Asia,Asia & Oceania,5,10,[1] UN WPP 2024
+Kyrgyzstan,Central Asia,Asia & Oceania,6,7,[1] UN WPP 2024
+Turkmenistan,Central Asia,Asia & Oceania,5,6.5,[1] UN WPP 2024
+Georgia,Caucasus,Asia & Oceania,4,3.7,[1] UN WPP 2024
+Armenia,Caucasus,Asia & Oceania,4,3,[1] UN WPP 2024
+Azerbaijan,Caucasus,Asia & Oceania,4,10.3,[1] UN WPP 2024
+Iran,West Asia,Asia & Oceania,3.5,89,[1] UN WPP 2024
+Australia Eastern (NSW/VIC/QLD/TAS/ACT),Oceania,Asia & Oceania,10,20.5,[6] ABS Australia
+Australia Central (SA/NT),Oceania,Asia & Oceania,9.5,2.1,[6] ABS Australia
+Australia Western (WA),Oceania,Asia & Oceania,8,2.9,[6] ABS Australia
+New Zealand,Oceania,Asia & Oceania,12,5.2,[1] UN WPP 2024
+Papua New Guinea,Oceania,Asia & Oceania,10,10,[1] UN WPP 2024
+Fiji,Oceania,Asia & Oceania,12,0.9,[1] UN WPP 2024
+Solomon Islands,Oceania,Asia & Oceania,11,0.7,[1] UN WPP 2024
+Vanuatu,Oceania,Asia & Oceania,11,0.3,[1] UN WPP 2024
+New Caledonia,Oceania,Asia & Oceania,11,0.3,[1] UN WPP 2024
+Samoa,Oceania,Asia & Oceania,13,0.2,[1] UN WPP 2024
+Tonga,Oceania,Asia & Oceania,13,0.1,[1] UN WPP 2024
+Saudi Arabia,Middle East,Africa & Middle East,3,37,[1] UN WPP 2024
+Iraq,Middle East,Africa & Middle East,3,44,[1] UN WPP 2024
+Yemen,Middle East,Africa & Middle East,3,34,[1] UN WPP 2024
+Jordan,Middle East,Africa & Middle East,3,11.5,[1] UN WPP 2024
+UAE,Middle East,Africa & Middle East,4,10,[1] UN WPP 2024
+Kuwait,Middle East,Africa & Middle East,3,4.5,[1] UN WPP 2024
+Oman,Middle East,Africa & Middle East,4,4.7,[1] UN WPP 2024
+Qatar,Middle East,Africa & Middle East,3,2.7,[1] UN WPP 2024
+Bahrain,Middle East,Africa & Middle East,3,1.6,[1] UN WPP 2024
+Lebanon,Middle East,Africa & Middle East,3,5.5,[1] UN WPP 2024
+Palestine,Middle East,Africa & Middle East,3,5.5,[1] UN WPP 2024
+Syria,Middle East,Africa & Middle East,3,23,[1] UN WPP 2024
+Egypt,North Africa,Africa & Middle East,2,106,[1] UN WPP 2024
+Algeria,North Africa,Africa & Middle East,1,46,[1] UN WPP 2024
+Morocco,North Africa,Africa & Middle East,1,38,[1] UN WPP 2024
+Tunisia,North Africa,Africa & Middle East,1,12.5,[1] UN WPP 2024
+Libya,North Africa,Africa & Middle East,2,7,[1] UN WPP 2024
+Sudan,North Africa,Africa & Middle East,2,48,[1] UN WPP 2024
+South Sudan,East Africa,Africa & Middle East,2,12,[1] UN WPP 2024
+Nigeria,West Africa,Africa & Middle East,1,230,[1] UN WPP 2024
+Ghana,West Africa,Africa & Middle East,0,34,[1] UN WPP 2024
+Ivory Coast,West Africa,Africa & Middle East,0,29,[1] UN WPP 2024
+Niger,West Africa,Africa & Middle East,1,27,[1] UN WPP 2024
+Mali,West Africa,Africa & Middle East,0,23,[1] UN WPP 2024
+Burkina Faso,West Africa,Africa & Middle East,0,23,[1] UN WPP 2024
+Senegal,West Africa,Africa & Middle East,0,18,[1] UN WPP 2024
+Guinea,West Africa,Africa & Middle East,0,14.5,[1] UN WPP 2024
+Benin,West Africa,Africa & Middle East,1,13.5,[1] UN WPP 2024
+Togo,West Africa,Africa & Middle East,0,9,[1] UN WPP 2024
+Sierra Leone,West Africa,Africa & Middle East,0,8.5,[1] UN WPP 2024
+Liberia,West Africa,Africa & Middle East,0,5.5,[1] UN WPP 2024
+Mauritania,West Africa,Africa & Middle East,0,5,[1] UN WPP 2024
+Gambia,West Africa,Africa & Middle East,0,2.7,[1] UN WPP 2024
+Guinea-Bissau,West Africa,Africa & Middle East,0,2.2,[1] UN WPP 2024
+Cabo Verde,West Africa,Africa & Middle East,-1,0.6,[1] UN WPP 2024
+DRC,Central Africa,Africa & Middle East,2,105,[1] UN WPP 2024
+Cameroon,Central Africa,Africa & Middle East,1,29,[1] UN WPP 2024
+Angola,Central Africa,Africa & Middle East,1,37,[1] UN WPP 2024
+Chad,Central Africa,Africa & Middle East,1,18.5,[1] UN WPP 2024
+Central African Republic,Central Africa,Africa & Middle East,1,5.5,[1] UN WPP 2024
+Republic of Congo,Central Africa,Africa & Middle East,1,6,[1] UN WPP 2024
+Gabon,Central Africa,Africa & Middle East,1,2.5,[1] UN WPP 2024
+Equatorial Guinea,Central Africa,Africa & Middle East,1,1.7,[1] UN WPP 2024
+Sao Tome and Principe,Central Africa,Africa & Middle East,0,0.2,[1] UN WPP 2024
+Ethiopia,East Africa,Africa & Middle East,3,130,[1] UN WPP 2024
+Kenya,East Africa,Africa & Middle East,3,56,[1] UN WPP 2024
+Tanzania,East Africa,Africa & Middle East,3,67,[1] UN WPP 2024
+Uganda,East Africa,Africa & Middle East,3,50,[1] UN WPP 2024
+Mozambique,East Africa,Africa & Middle East,2,34,[1] UN WPP 2024
+Madagascar,East Africa,Africa & Middle East,3,30,[1] UN WPP 2024
+Somalia,East Africa,Africa & Middle East,3,18,[1] UN WPP 2024
+Rwanda,East Africa,Africa & Middle East,2,14,[1] UN WPP 2024
+Burundi,East Africa,Africa & Middle East,2,13.5,[1] UN WPP 2024
+Eritrea,East Africa,Africa & Middle East,3,3.7,[1] UN WPP 2024
+Djibouti,East Africa,Africa & Middle East,3,1.1,[1] UN WPP 2024
+Comoros,East Africa,Africa & Middle East,3,1,[1] UN WPP 2024
+Mauritius,East Africa,Africa & Middle East,4,1.3,[1] UN WPP 2024
+Seychelles,East Africa,Africa & Middle East,4,0.1,[1] UN WPP 2024
+South Africa,Southern Africa,Africa & Middle East,2,60,[1] UN WPP 2024
+Zimbabwe,Southern Africa,Africa & Middle East,2,16.5,[1] UN WPP 2024
+Zambia,Southern Africa,Africa & Middle East,2,20.5,[1] UN WPP 2024
+Malawi,Southern Africa,Africa & Middle East,2,21,[1] UN WPP 2024
+Namibia,Southern Africa,Africa & Middle East,2,2.7,[1] UN WPP 2024
+Botswana,Southern Africa,Africa & Middle East,2,2.5,[1] UN WPP 2024
+Lesotho,Southern Africa,Africa & Middle East,2,2.3,[1] UN WPP 2024
+Eswatini,Southern Africa,Africa & Middle East,2,1.2,[1] UN WPP 2024
+United Kingdom,Western Europe,Europe,1,68,[1] UN WPP 2024
+Ireland,Western Europe,Europe,1,5.2,[1] UN WPP 2024
+Portugal,Western Europe,Europe,1,10.4,[1] UN WPP 2024
+Iceland,Northern Europe,Europe,0,0.4,[1] UN WPP 2024
+Germany,Western Europe,Europe,2,84,[1] UN WPP 2024
+France,Western Europe,Europe,2,66,[1] UN WPP 2024
+Italy,Southern Europe,Europe,2,59,[1] UN WPP 2024
+Spain,Southern Europe,Europe,2,48,[1] UN WPP 2024
+Poland,Eastern Europe,Europe,2,37,[1] UN WPP 2024
+Netherlands,Western Europe,Europe,2,18,[1] UN WPP 2024
+Belgium,Western Europe,Europe,2,11.7,[1] UN WPP 2024
+Czech Republic,Eastern Europe,Europe,2,10.9,[1] UN WPP 2024
+Sweden,Northern Europe,Europe,2,10.5,[1] UN WPP 2024
+Hungary,Eastern Europe,Europe,2,10,[1] UN WPP 2024
+Austria,Western Europe,Europe,2,9.2,[1] UN WPP 2024
+Switzerland,Western Europe,Europe,2,8.9,[1] UN WPP 2024
+Serbia,Southern Europe,Europe,2,6.6,[1] UN WPP 2024
+Denmark,Northern Europe,Europe,2,5.9,[1] UN WPP 2024
+Norway,Northern Europe,Europe,2,5.5,[1] UN WPP 2024
+Slovakia,Eastern Europe,Europe,2,5.4,[1] UN WPP 2024
+Croatia,Southern Europe,Europe,2,3.9,[1] UN WPP 2024
+Bosnia and Herzegovina,Southern Europe,Europe,2,3.2,[1] UN WPP 2024
+Albania,Southern Europe,Europe,2,2.8,[1] UN WPP 2024
+Slovenia,Southern Europe,Europe,2,2.1,[1] UN WPP 2024
+North Macedonia,Southern Europe,Europe,2,1.8,[1] UN WPP 2024
+Kosovo,Southern Europe,Europe,2,1.8,[1] UN WPP 2024
+Montenegro,Southern Europe,Europe,2,0.6,[1] UN WPP 2024
+Luxembourg,Western Europe,Europe,2,0.7,[1] UN WPP 2024
+Malta,Southern Europe,Europe,2,0.5,[1] UN WPP 2024
+Andorra,Southern Europe,Europe,2,0.08,[1] UN WPP 2024
+Liechtenstein,Western Europe,Europe,2,0.04,[1] UN WPP 2024
+San Marino,Southern Europe,Europe,2,0.03,[1] UN WPP 2024
+Turkey,Southern Europe,Europe,3,86,[1] UN WPP 2024
+Ukraine,Eastern Europe,Europe,3,37,[1] UN WPP 2024
+Romania,Eastern Europe,Europe,3,19,[1] UN WPP 2024
+Greece,Southern Europe,Europe,3,10.3,[1] UN WPP 2024
+Finland,Northern Europe,Europe,3,5.6,[1] UN WPP 2024
+Bulgaria,Eastern Europe,Europe,3,6.5,[1] UN WPP 2024
+Lithuania,Northern Europe,Europe,3,2.8,[1] UN WPP 2024
+Latvia,Northern Europe,Europe,3,1.8,[1] UN WPP 2024
+Estonia,Northern Europe,Europe,3,1.4,[1] UN WPP 2024
+Cyprus,Southern Europe,Europe,3,1.3,[1] UN WPP 2024
+Moldova,Eastern Europe,Europe,3,2.6,[1] UN WPP 2024
+Russia UTC+3 (Moscow/Western),Eastern Europe,Europe,3,105,[8] Rosstat
+Russia UTC+4 (Samara/Udmurtia),Eastern Europe,Europe,4,15,[8] Rosstat
+Russia UTC+5 (Yekaterinburg),Eastern Europe,Europe,5,20,[8] Rosstat
+Russia UTC+6 (Omsk),Eastern Europe,Europe,6,8,[8] Rosstat
+Russia UTC+7 (Krasnoyarsk),Eastern Europe,Europe,7,8,[8] Rosstat
+Russia UTC+8 (Irkutsk),Eastern Europe,Europe,8,5,[8] Rosstat
+Russia UTC+9 (Yakutsk),Eastern Europe,Europe,9,3,[8] Rosstat
+Russia UTC+10 (Vladivostok),Eastern Europe,Europe,10,4,[8] Rosstat
+Russia UTC+11 (Magadan/Sakhalin),Eastern Europe,Europe,11,1.5,[8] Rosstat
+Russia UTC+12 (Kamchatka),Eastern Europe,Europe,12,0.5,[8] Rosstat
+Belarus,Eastern Europe,Europe,3,9.2,[1] UN WPP 2024
+Israel,Middle East (UEFA),Europe,3,9.9,[1] UN WPP 2024
+Kazakhstan West,Central Asia (UEFA),Europe,5,5,[1] UN WPP 2024
+Kazakhstan East,Central Asia (UEFA),Europe,6,14,[1] UN WPP 2024
+USA Eastern,North America,North Central America & Caribbean,-4,152,[2] US Census Bureau
+USA Central,North America,North Central America & Caribbean,-5,95,[2] US Census Bureau
+USA Mountain,North America,North Central America & Caribbean,-6,18,[2] US Census Bureau
+USA Pacific + Arizona,North America,North Central America & Caribbean,-7,60,[2] US Census Bureau
+USA Alaska,North America,North Central America & Caribbean,-8,0.7,[2] US Census Bureau
+USA Hawaii,North America,North Central America & Caribbean,-10,1.5,[2] US Census Bureau
+Canada Atlantic (NB/NS/PEI),North America,North Central America & Caribbean,-3,2,[3] Statistics Canada
+Canada Newfoundland,North America,North Central America & Caribbean,-2.5,0.5,[3] Statistics Canada
+Canada Eastern (ON/QC),North America,North Central America & Caribbean,-4,23,[3] Statistics Canada
+Canada Central (MB/SK),North America,North Central America & Caribbean,-5,2.5,[3] Statistics Canada
+Canada Mountain (AB),North America,North Central America & Caribbean,-6,4.7,[3] Statistics Canada
+Canada Pacific (BC),North America,North Central America & Caribbean,-7,5.4,[3] Statistics Canada
+Mexico Central/Most,North America,North Central America & Caribbean,-6,125,[7] INEGI Mexico
+Mexico Sonora,North America,North Central America & Caribbean,-7,3.1,[7] INEGI Mexico
+Mexico Baja California,North America,North Central America & Caribbean,-7,3.8,[7] INEGI Mexico
+Mexico Quintana Roo,North America,North Central America & Caribbean,-5,1.9,[7] INEGI Mexico
+Guatemala,Central America,North Central America & Caribbean,-6,18,[1] UN WPP 2024
+Honduras,Central America,North Central America & Caribbean,-6,10.5,[1] UN WPP 2024
+El Salvador,Central America,North Central America & Caribbean,-6,6.3,[1] UN WPP 2024
+Nicaragua,Central America,North Central America & Caribbean,-6,7,[1] UN WPP 2024
+Costa Rica,Central America,North Central America & Caribbean,-6,5.2,[1] UN WPP 2024
+Panama,Central America,North Central America & Caribbean,-5,4.5,[1] UN WPP 2024
+Belize,Central America,North Central America & Caribbean,-6,0.4,[1] UN WPP 2024
+Cuba,Caribbean,North Central America & Caribbean,-4,11,[1] UN WPP 2024
+Haiti,Caribbean,North Central America & Caribbean,-4,12,[1] UN WPP 2024
+Dominican Republic,Caribbean,North Central America & Caribbean,-4,11.3,[1] UN WPP 2024
+Jamaica,Caribbean,North Central America & Caribbean,-5,2.8,[1] UN WPP 2024
+Puerto Rico,Caribbean,North Central America & Caribbean,-4,3.2,[1] UN WPP 2024
+Trinidad and Tobago,Caribbean,North Central America & Caribbean,-4,1.5,[1] UN WPP 2024
+Bahamas,Caribbean,North Central America & Caribbean,-4,0.4,[1] UN WPP 2024
+Barbados,Caribbean,North Central America & Caribbean,-4,0.3,[1] UN WPP 2024
+Guadeloupe,Caribbean,North Central America & Caribbean,-4,0.4,[1] UN WPP 2024
+Martinique,Caribbean,North Central America & Caribbean,-4,0.35,[1] UN WPP 2024
+Curacao,Caribbean,North Central America & Caribbean,-4,0.15,[1] UN WPP 2024
+Aruba,Caribbean,North Central America & Caribbean,-4,0.11,[1] UN WPP 2024
+US Virgin Islands,Caribbean,North Central America & Caribbean,-4,0.1,[1] UN WPP 2024
+Cayman Islands,Caribbean,North Central America & Caribbean,-5,0.07,[1] UN WPP 2024
+Bermuda,Caribbean,North Central America & Caribbean,-3,0.06,[1] UN WPP 2024
+Suriname,Caribbean,North Central America & Caribbean,-3,0.6,[1] UN WPP 2024
+Guyana,Caribbean,North Central America & Caribbean,-4,0.8,[1] UN WPP 2024
+Brazil UTC-3 (Brasilia/most states),South America,South America,-3,195,[4] IBGE Brazil
+Brazil UTC-4 (Amazonas/MT/MS),South America,South America,-4,18,[4] IBGE Brazil
+Brazil UTC-5 (Acre),South America,South America,-5,0.9,[4] IBGE Brazil
+Argentina,South America,South America,-3,46,[1] UN WPP 2024
+Colombia,South America,South America,-5,52,[1] UN WPP 2024
+Peru,South America,South America,-5,34,[1] UN WPP 2024
+Venezuela,South America,South America,-4,29,[1] UN WPP 2024
+Chile,South America,South America,-4,20,[1] UN WPP 2024
+Ecuador,South America,South America,-5,18,[1] UN WPP 2024
+Bolivia,South America,South America,-4,12.5,[1] UN WPP 2024
+Paraguay,South America,South America,-4,6.8,[1] UN WPP 2024
+Uruguay,South America,South America,-3,3.4,[1] UN WPP 2024
